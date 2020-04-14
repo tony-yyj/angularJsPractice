@@ -17,6 +17,13 @@ module.exports = {
         contentBase: './dist',
         hot: true,
     },
+    module: {
+        rules: [
+            {
+                test: /\.(html)$/, use: 'html-loader',
+            }
+        ]
+    },
 
     output: {
         path: path.resolve(__dirname, 'dist'),

@@ -11,10 +11,12 @@
   "author": "tony",
   "license": "ISC",
   "dependencies": {
-    "angular": "^1.7.9"
+    "angular": "^1.7.9",
+    "angular-route": "^1.7.9"
   },
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
+    "html-loader": "^1.1.0",
     "html-webpack-plugin": "^4.2.0",
     "webpack": "^4.42.1",
     "webpack-cli": "^3.3.11",
