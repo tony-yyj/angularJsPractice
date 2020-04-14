@@ -1,0 +1,14 @@
+{
+  "name": "angularjspractice",
+  "version": "1.0.0",
+  "description": "angular js 试验田",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tony",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.7.9"
+  }
+}
